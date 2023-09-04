@@ -1,6 +1,6 @@
 ;;; dired-imenu.el --- imenu binding for dired mode
 
-;; Copyright (C) 2014 Damien Cassou
+;; Copyright (C) 2014-2023  Damien Cassou
 
 ;; Author: Damien Cassou <damien.cassou@gmail.com>
 ;; Url: https://github.com/DamienCassou/dired-imenu
